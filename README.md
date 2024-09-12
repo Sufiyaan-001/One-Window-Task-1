@@ -1,10 +1,14 @@
-#Country Information Cards
+**Country Information Cards**
 
-##Overview
+**Overview**
 
 This project is a React-based web application that displays a list of country cards. Each card provides information about a country, including its academic reputation, cost of education, living expenses, and features a flag and a background image. The application allows users to like cards, with the like button changing color when activated.
 
-##Features
+**Interface**
+
+![Image](https://github.com/user-attachments/assets/a7d68f4b-dc2f-4bd2-9f5a-32ed9b85f280)
+
+**Features**
 
 Country Cards: Displays cards with information about different countries.
 Information Included:
